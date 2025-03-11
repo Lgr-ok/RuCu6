@@ -2,11 +2,10 @@
 #!desc = 没有广告的哔哩哔哩更值得干杯。仅测试Bilibili_7.57.0
 #!author =感谢大佬 Maasea[https://github.com/Maasea], RuCu6[https://github.com/RuCu6], kokoryh[https://github.com/kokoryh], 可莉🅥[https://gitlab.com/lodepuly/vpn_tool]
 #!icon = https://raw.githubusercontent.com/Lgr-ok/RuCu6/refs/heads/main/Icons/plugin/bilibili.png
-#!date = 2024-10-15 22:45
+#!date = 2025-3-11
 
-[General]
-force-http-engine-hosts = :8000
-
+# [General]
+# force-http-engine-hosts = :8000
 
 [MITM]
 hostname = ap*.bilibili.com, grpc.biliapi.net, www.bilibili.com, m.bilibili.com, *live.bilibili.com
