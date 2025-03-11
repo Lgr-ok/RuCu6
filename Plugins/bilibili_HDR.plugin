@@ -4,8 +4,5 @@
 #!icon = https://raw.githubusercontent.com/Lgr-ok/RuCu6/refs/heads/main/Icons/plugin/bilibili.png
 #!date = 2025-3-11
 
-# [General]
-# force-http-engine-hosts = :8000
-
 [MITM]
 hostname = ap*.bilibili.com, grpc.biliapi.net, www.bilibili.com, m.bilibili.com, *live.bilibili.com
